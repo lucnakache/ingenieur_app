@@ -1,0 +1,12 @@
+name: dashboardapp_bis
+title: dashboardapp_bis
+username:
+account: lilbigdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 358322
+bundleId: 1421016
+url: https://lilbigdata.shinyapps.io/dashboardapp_bis/
+when: 1528619663.675
+asMultiple: FALSE
+asStatic: FALSE

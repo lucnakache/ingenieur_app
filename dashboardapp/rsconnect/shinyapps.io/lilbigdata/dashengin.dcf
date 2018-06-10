@@ -1,0 +1,12 @@
+name: dashengin
+title: dashengin
+username:
+account: lilbigdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 358331
+bundleId: 1421057
+url: https://lilbigdata.shinyapps.io/dashengin/
+when: 1528622454.117
+asMultiple: FALSE
+asStatic: FALSE

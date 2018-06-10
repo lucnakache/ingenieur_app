@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# packages\nrm(list=ls())\nlibrary(highcharter)\nlibrary(geosphere)\n# library(sp)\n# library(raster)\nlibrary(dplyr)\nlibrary(shiny)\nlibrary(shinydashboard)\nlibrary(leaflet)\nlibrary(leaflet.minicharts)\nlibrary(RColorBrewer)\nlibrary(stringr)\n\n",
+    "created" : 1528540650403.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "452254732",
+    "id" : "F12573C1",
+    "lastKnownWriteTime" : 1528621292,
+    "last_content_update" : 1528621292143,
+    "path" : "C:/Users/Bar Yokhai/Desktop/projets/Blog/luc_ingenieur_app/dashboardapp/packages.R",
+    "project_path" : "packages.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
